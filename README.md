@@ -15,5 +15,5 @@ scala -cp target/java-nn-example-0.1-SNAPSHOT-bin.jar src/main/scala/com/example
 
 or
 
-java -cp target/java-nn-example-0.1-SNAPSHOT.jar com.example.neuralnetwork.MLPMnistSingleLayerExample
+java -cp target/java-nn-example-0.1-SNAPSHOT-bin.jar com.example.neuralnetwork.MLPMnistSingleLayerExample
 ```
